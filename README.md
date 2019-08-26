@@ -1,1 +1,3 @@
-# LIS.753--EXERCISES
+# Lis 753 Exercises
+Nadiya Svyatylo
+Im Confused.
