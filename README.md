@@ -1,2 +1,2 @@
-#Lis753--Exercises
+#Lis753-Exercises
 Nadiya.Svyatylo
