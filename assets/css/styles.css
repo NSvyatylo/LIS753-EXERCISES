@@ -1,10 +1,29 @@
 body {
-  background-color: #242F40;
+  background-color: #D2C7DB;
   font-family: arial, sans-serif;
+  color: #141414;
+}
+
+.wrapper{
+  background: #ffffff;
+  width: 92%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 12px 20px;
 }
 
 h1, h2 {
-  color: #E5E5E5;
+  color: #33202A;
+}
+
+blockquote{
+  border-left: 4px solid #A86B8C;
+  padding-left: 12px;
+  background-color: #A8929E;
+}
+
+.Caption{
+  font-style: italic;
 }
 
 a {
