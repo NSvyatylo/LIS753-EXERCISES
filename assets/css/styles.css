@@ -32,12 +32,12 @@ blockquote{
   margin-left: 0;
 }
 
-.Caption{
+p.Caption{
   font-style: italic;
   margin-top: .25em;
 }
 
-.image{
+p.image{
   text-align: center;
   margin: 2em 0;
 }
