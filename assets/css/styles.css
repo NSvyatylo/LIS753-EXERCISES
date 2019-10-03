@@ -4,7 +4,7 @@ body {
   color: #141414;
 }
 
-.wrapper{
+.wrapper {
   background: #ffffff;
   width: 92%;
   max-width: 800px;
@@ -12,7 +12,7 @@ body {
   padding: 12px 20px;
 }
 
-h1{
+h1 {
   margin-bottom: .5em;
 }
 
@@ -21,7 +21,7 @@ h2, h3{
   margin-top: 1em;
 }
 
-h1, h2, h3{
+h1, h2, h3 {
   color: #33202A;
 }
 
@@ -32,12 +32,12 @@ blockquote{
   margin-left: 0;
 }
 
-p.Caption{
+.caption {
   font-style: italic;
   margin-top: .25em;
 }
 
-p.image{
+.image {
   text-align: center;
   margin: 2em 0;
 }
