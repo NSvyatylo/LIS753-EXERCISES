@@ -35,6 +35,7 @@ blockquote{
 .caption {
   font-style: italic;
   margin-top: .25em;
+  text-align: center;
 }
 
 .image {
