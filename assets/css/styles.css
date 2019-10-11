@@ -69,3 +69,8 @@ footer.wrapper {
   padding-top: 20px 20px;
   border-top: 2px solid #D2C7DB;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
