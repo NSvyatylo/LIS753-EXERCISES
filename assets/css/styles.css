@@ -64,8 +64,8 @@ header{
   background-image: url(../imgaes1/simple-pattern.jpg);
 }
 
-footer {
+footer.wrapper {
   text-align: right;
   padding-top: 20px 20px;
-  border-top: 2px solid #fffdde;
+  border-top: 2px solid #D2C7DB;
 }
