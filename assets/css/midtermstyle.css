@@ -20,5 +20,6 @@ header {
 
 h1 {
   font-size: 3em;
-  margin-top: 0 auto;
+  margin-top: 0px;
+  text-align: center;
 }
