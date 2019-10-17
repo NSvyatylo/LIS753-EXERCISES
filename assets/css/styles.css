@@ -79,4 +79,6 @@ footer.wrapper {
 .intro {
   border-color: #D3BCC0;
   border-style: solid;
+  margin-left: 20px;
+  margin-right: 20px;
 }
