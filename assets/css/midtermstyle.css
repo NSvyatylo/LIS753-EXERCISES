@@ -6,13 +6,19 @@ body {
   border: 15px;
 }
 
+header {
+  text-align: center;
+}
+
 .header {
-  background-color: lightyellow;
-  padding: 20px;
+  background-color: #FFEE00;
+  padding: 0px;
+  margin: 0px;
+  margin: 0px;
   text-align: center;
 }
 
 h1 {
   font-size: 3em;
-  margin-bottom: .3em;
+  margin-top: 0 auto;
 }
