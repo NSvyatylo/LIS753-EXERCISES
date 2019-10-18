@@ -12,7 +12,7 @@ header {
 
 .header {
   background-color: #FFEE00;
-  width: 200px;
+  width: 400px;
   padding: 0px;
   margin-top: 20px;
   margin: 0px;
@@ -32,4 +32,9 @@ h1 {
   max-width: 800px;
   margin: 0 auto;
   padding: 12px 12px;
+}
+
+#whitefont {
+  color: white;
+  padding-left: 20px;
 }
