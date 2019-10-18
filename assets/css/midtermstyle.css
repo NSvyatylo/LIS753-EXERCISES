@@ -12,6 +12,7 @@ header {
 
 .header {
   background-color: #FFEE00;
+  width: 400px;
   padding: 0px;
   margin-top: 20px;
   margin: 0px;
@@ -24,3 +25,10 @@ h1 {
   margin-bottom: 20px;
   text-align: center;
 }
+
+.wrapper-musterd {
+  background-color: #EDB40B;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 12px 12px;
