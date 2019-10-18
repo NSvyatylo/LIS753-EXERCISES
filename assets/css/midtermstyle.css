@@ -42,7 +42,8 @@ a {
   background-color: #EF7C10;
   width: 90%;
   max-width: 800px;
-  margin: 30px 30px;
+  margin: 0px auto;
+  margin-bottom: 40px;
   padding: 12px 12px;
   color: #121518;
 }
@@ -67,4 +68,5 @@ img {
   font-style: italic;
   margin-top: .25em;
   font-size-adjust: 12px;
+  text-align: center;
 }
