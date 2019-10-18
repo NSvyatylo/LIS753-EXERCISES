@@ -33,7 +33,8 @@ a {
   background-color: #EDB40B;
   width: 90%;
   max-width: 800px;
-  margin: 30px 30px auto;
+  margin: 0px auto;
+  margin-bottom: 40px;
   padding: 12px 12px;
   color: #121518;
 }
