@@ -12,7 +12,7 @@ header {
 
 .header {
   background-color: #FFEE00;
-  width: 400px;
+  width: 600px;
   padding: 0px;
   margin-top: 20px;
   margin: 0px;
@@ -32,6 +32,16 @@ h1 {
   max-width: 800px;
   margin: 0 auto;
   padding: 12px 12px;
+  color: #083BD6;
+}
+
+.wrapper-orange {
+  background-color: #EF7C10;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 12px 12px;
+  color: #083BD6;
 }
 
 #whitefont {
