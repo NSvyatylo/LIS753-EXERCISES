@@ -12,7 +12,6 @@ header {
 
 .header {
   background-color: #FFEE00;
-  width: 600px;
   padding: 0px;
   margin-top: 20px;
   margin: 0px;
@@ -26,25 +25,40 @@ h1 {
   text-align: center;
 }
 
+a {
+  color: #ffffff;
+}
+
 .wrapper-musterd {
   background-color: #EDB40B;
   width: 90%;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 30px 30px;
   padding: 12px 12px;
-  color: #083BD6;
+  color: #7592EA;
 }
 
 .wrapper-orange {
   background-color: #EF7C10;
   width: 90%;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 30px 30px;
   padding: 12px 12px;
-  color: #083BD6;
+  color: #7592EA;
 }
 
 #whitefont {
   color: white;
   padding-left: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.images1 {
+  text-align: center;
+  margin: 2em 0;
 }
