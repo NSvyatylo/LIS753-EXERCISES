@@ -33,8 +33,7 @@ a {
   background-color: #EDB40B;
   width: 90%;
   max-width: 800px;
-  text-align: center;
-  margin: 30px 30px;
+  margin: 30px 30px auto;
   padding: 12px 12px;
   color: #121518;
 }
@@ -43,7 +42,6 @@ a {
   background-color: #EF7C10;
   width: 90%;
   max-width: 800px;
-  text-align: center;
   margin: 30px 30px;
   padding: 12px 12px;
   color: #121518;
@@ -63,4 +61,10 @@ img {
 .images1 {
   text-align: center;
   margin: 2em 0;
+}
+
+.Caption {
+  font-style: italic;
+  margin-top: .25em;
+  font-size-adjust: 12px;
 }
