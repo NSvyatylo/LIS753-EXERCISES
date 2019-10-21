@@ -92,8 +92,6 @@ img {
 
 .images1 {
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .Caption {
@@ -107,3 +105,13 @@ img {
   body {
     background-color: #dddddd;
   }}
+
+#footer {
+    color: #06074C;
+  }
+
+footer#footer {
+  text-align: right;
+  padding-top: 20px 20px;
+  border-top: 2px solid #FFEE00;
+}
