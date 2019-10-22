@@ -16,6 +16,10 @@ header {
   margin-top: 20px;
   margin: 0px;
   text-align: center;
+  width: 90%;
+  max-width: 800px;
+  margin: 0px auto;
+  padding: 12px 12px;
 }
 
 h1 {
@@ -32,6 +36,8 @@ h3, h4, h5 {
 
 a {
   color: #ffffff;
+  background-color: #06074C;
+  padding: 4px 4px;
 }
 
 ul {
@@ -108,10 +114,15 @@ img {
 
 #footer {
     color: #06074C;
+    width: 90%;
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 12px 12px;
   }
 
 footer#footer {
   text-align: right;
   padding-top: 20px 20px;
-  border-top: 2px solid #FFEE00;
+  border-top: 2px solid black;
+  background-color: #FFEE00;
 }
