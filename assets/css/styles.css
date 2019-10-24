@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #D2C7DB;
   font-family: arial, sans-serif;
@@ -6,7 +10,7 @@ body {
 
 .wrapper {
   background-color: #ffffff;
-  width: 92%;
+  width: 96%;
   max-width: 800px;
   margin: 0 auto;
   padding: 12px 20px;
@@ -14,6 +18,7 @@ body {
 
 h1 {
   margin-bottom: .5em;
+  text-align: center;
 }
 
 h2, h3 {
@@ -62,7 +67,7 @@ p {
 }
 
 header {
-  background-image: url(../imgaes1/pattern.jpg);
+  background-image: url(../images1/pattern.jpg);
 }
 
 footer.wrapper {
@@ -81,4 +86,23 @@ p.intro {
   border-style: solid;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+@media all and (min-width:900px){
+  article, aside {
+    float: left;
+  }
+
+  article {
+    width: 80%;
+    padding-right: 30px;
+  }
+
+  aside {
+    width: 20%;
+  }
+
+  aside h2:first-child {
+    margin-top: 14px;
+  }
 }
