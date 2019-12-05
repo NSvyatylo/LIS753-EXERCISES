@@ -1,0 +1,69 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #dddddd;
+  }}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fcfeff;
+  font-family: lucida, sans-serif;
+  color: #0B1523;
+}
+
+header {
+  background-image: url(../images1/skyline.jpg);
+  padding-top: 10px;
+  padding-bottom: 60px;
+  max-width: 800px;
+  width: 96%;
+  margin: 1em auto;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: .5em;
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.wrapper {
+  background-color: #81B5EA;
+  width: 96%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 25px 25px;
+}
+
+h3 {
+  margin-top: 12px;
+}
+
+p.intro {
+  border-color: #FFE1AA;
+  border-style: solid;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  padding: .5em .5em;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+.images1 {
+  text-align: center;
+  margin: 2em 0;
+}
+
+footer.wrapper {
+  text-align: right;
+  margin-top: 20px;
+  padding-top: 20px 20px;
+  border-top: 2px solid #fcfeff;
+}
